@@ -1,0 +1,8 @@
+
+    Coin: FLOW/USDT
+    Percentage Difference: +1.68%
+    Our Balance in USDT: 75.0000
+    Log Time: 14:12
+    Kar:0.6703507477293726
+
+------------------------
